@@ -1,0 +1,9 @@
+[33m390027f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m port 8761 packging to jar
+[33m2710f93[m port 5000
+[33m69ab000[m api-gateway with routes and jwt interceptor
+[33m720149a[m jenkins file update: creating the docker image
+[33mf4173ef[m jenkins file update: creating the docker image
+[33m3ae3000[m jenkins file update: creating the docker image
+[33mdd09f9a[m eureka server
+[33mac11eb8[m eureka server
+[33m3a04eb2[m eureka server
